@@ -1,5 +1,7 @@
 **🌸 Iris Flower Classification**
+
 🔍 Overview
+
 This project is part of my CodeAlpha Data Science Internship. It focuses on classifying iris flower species using various features such as petal length, petal width, sepal length, and sepal width. The model is trained using a supervised machine learning algorithm on the popular Iris dataset.
 
 📁 Dataset
@@ -69,7 +71,7 @@ The model performs accurately with minimal preprocessing.
 🧪 How to Run
 Clone the repository:
 
-git clone https://github.com/your-username/CodeAlpha_Iris_Classification.git
+git clone https://github.com/Shravika121/CodeAlpha_Iris_Classification.git
 cd CodeAlpha_Iris_Classification
 Run the notebook:
 
